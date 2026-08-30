@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.2/shixing-1.2.apk",
+  "sizeBytes": 4128138,
+  "notes": "· 应用内检查更新：以后有新版本会在应用里提示，不用再等人发包\n· 时间流水里已记录的时间段可以点开修改\n· 修掉滚轮时间选择器两个静默改值的问题\n· 修掉每晚日记与复盘在正式包里不生成的问题"
+}
