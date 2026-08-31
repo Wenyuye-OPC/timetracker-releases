@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.2/shixing-1.2.apk",
-  "sizeBytes": 4128138,
-  "notes": "· 应用内检查更新：以后有新版本会在应用里提示，不用再等人发包\n· 时间流水里已记录的时间段可以点开修改\n· 修掉滚轮时间选择器两个静默改值的问题\n· 修掉每晚日记与复盘在正式包里不生成的问题"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.3/shixing-1.3.apk",
+  "sizeBytes": 4226566,
+  "notes": "· 今天页新增「随手记」：想到什么先记下来，可以口述，AI 帮着整理成条目\n· 日记新增「日复盘」：一天结束时给出做成了什么、哪里可以改进、明天做什么\n· 日记可以一键分享成长图，四种样式，存相册或直接发出去\n· 今日看板细化到具体任务的耗时分析\n· 计划支持直接编辑和拖拽调整时间，还能设置未来事项提醒\n· 时间流水支持左右滑动切换历史日期"
 }
