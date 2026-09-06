@@ -1,7 +1,11 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.4/shixing-1.4.apk",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://gh-proxy.com/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.5/shixing-1.5.apk",
+  "apkMirrors": [
+    "https://ghproxy.net/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.5/shixing-1.5.apk",
+    "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.5/shixing-1.5.apk"
+  ],
   "sizeBytes": 4276462,
-  "notes": "· 今天页和日记新增「月度足迹」日历：一眼看到这个月哪些天有记录，点日期回看当天内容\n· 新增「应用使用」统计：其他 App 的每日用时排行与娱乐用时汇总，可为单个应用设每日限额，超时收到提醒\n· 结束计时时可以确认并回填真实的结束时间，忘了按停止也能补回来\n· 修复跨零点计时在今日记录里的时长统计\n· 修复应用停留到第二天后，今日看板、随手记、每日一句仍停在昨天\n· 设置页支持选择 AI 厂商与模型"
+  "notes": "· 修复国内下载更新又慢又报错：改为多个下载源自动切换，断了能接着下，不用从头再来\n· 检查更新也不再依赖单一线路，之前有时候连「有没有新版本」都查不到\n· 今天页和日记新增「月度足迹」日历：一眼看到这个月哪些天有记录\n· 新增「应用使用」统计：其他 App 的用时排行，可设每日限额并提醒\n· 结束计时时可以回填真实的结束时间，忘了按停止也能补回来\n· 修复跨零点计时的时长统计，以及应用停留到第二天后看板不刷新"
 }
