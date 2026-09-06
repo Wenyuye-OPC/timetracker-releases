@@ -1,11 +1,11 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://gh-proxy.com/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.7/shixing-1.7.apk",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://gh-proxy.com/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.8/shixing-1.8.apk",
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.7/shixing-1.7.apk",
-    "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.7/shixing-1.7.apk"
+    "https://ghproxy.net/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.8/shixing-1.8.apk",
+    "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.8/shixing-1.8.apk"
   ],
-  "sizeBytes": 4292854,
-  "notes": "· 往日没做完的计划不再堆在原地：今天页和计划页会提示「往日未完成」，可以重新安排到今天或指定某天、移回待办池，也可以标记不再需要或跳过\n· 改期不改历史：原来那条留在原日期上只改状态，所以复盘里「那天排了几件」不会被今天的操作追溯改写\n· 改期后的计划先落到当天的「未排时段」，具体时间和提醒可以再编辑"
+  "sizeBytes": 4325622,
+  "notes": "· 日记页顶部可以直接记一件事：键盘、语音都行；配了 AI 的还能顺手整理成通顺的话，整理完随时能还原原话\n· 新增「回访」：从随手记或自省里挑一个具体行动，定 1 / 3 / 7 / 30 天后回看，到期提醒你记下实际变化，可以继续练习、标记已改善或暂时放下。回访不依赖 AI 和网络\n· 日记页还会翻出 7 天 / 30 天 / 一年前的一条随手记\n· 应用使用页改版：首屏直接是图和用时排行\n· 修好了点 AI 生成只回一句「模型返回了空内容」——推理型模型把额度全花在思考上，正文一个字都没有。设置页新增「思考」开关和输出上限两个旋钮，另外加了智谱预设\n· 设置页新增「版本与会员」，目前只展示方案，还不能购买"
 }
