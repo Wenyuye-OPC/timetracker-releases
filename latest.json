@@ -1,11 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://gh-proxy.com/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.5/shixing-1.5.apk",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://gh-proxy.com/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.6/shixing-1.6.apk",
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.5/shixing-1.5.apk",
-    "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.5/shixing-1.5.apk"
+    "https://ghproxy.net/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.6/shixing-1.6.apk",
+    "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.6/shixing-1.6.apk"
   ],
-  "sizeBytes": 4276462,
-  "notes": "· 修复国内下载更新又慢又报错：改为多个下载源自动切换，断了能接着下，不用从头再来\n· 检查更新也不再依赖单一线路，之前有时候连「有没有新版本」都查不到\n· 今天页和日记新增「月度足迹」日历：一眼看到这个月哪些天有记录\n· 新增「应用使用」统计：其他 App 的用时排行，可设每日限额并提醒\n· 结束计时时可以回填真实的结束时间，忘了按停止也能补回来\n· 修复跨零点计时的时长统计，以及应用停留到第二天后看板不刷新"
+  "sizeBytes": 4276470,
+  "notes": "· 「应用使用」页不再读取整机应用列表：设限额时的候选名单改成最近 7 天用过的应用，不再向系统要「获取应用列表」权限\n· 修复部分手机上「前往授权」点了没反应，现在会依次退到系统的使用情况访问列表和设置首页\n· 从设置返回后仍未授权时，卡片会换一段说明，不再重复同一句话"
 }
