@@ -1,11 +1,11 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://gh-proxy.com/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.6/shixing-1.6.apk",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://gh-proxy.com/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.7/shixing-1.7.apk",
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.6/shixing-1.6.apk",
-    "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.6/shixing-1.6.apk"
+    "https://ghproxy.net/https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.7/shixing-1.7.apk",
+    "https://github.com/Wenyuye-OPC/timetracker-releases/releases/download/v1.7/shixing-1.7.apk"
   ],
-  "sizeBytes": 4276470,
-  "notes": "· 「应用使用」页不再读取整机应用列表：设限额时的候选名单改成最近 7 天用过的应用，不再向系统要「获取应用列表」权限\n· 修复部分手机上「前往授权」点了没反应，现在会依次退到系统的使用情况访问列表和设置首页\n· 从设置返回后仍未授权时，卡片会换一段说明，不再重复同一句话"
+  "sizeBytes": 4292854,
+  "notes": "· 往日没做完的计划不再堆在原地：今天页和计划页会提示「往日未完成」，可以重新安排到今天或指定某天、移回待办池，也可以标记不再需要或跳过\n· 改期不改历史：原来那条留在原日期上只改状态，所以复盘里「那天排了几件」不会被今天的操作追溯改写\n· 改期后的计划先落到当天的「未排时段」，具体时间和提醒可以再编辑"
 }
